@@ -43,7 +43,7 @@ Model training and evaluation: We trained the selected model on the training dat
 Model deployment: Work in Progress
 
 ## Results
-The final model achieved an accuracy of 95% on the validation data, which is a significant improvement over the client's current process. The model was able to identify the most important factors that contribute to promotion likelihood, such as employee age, awards won, previous training performance, and years of service etc...
+The final model achieved an accuracy of 95% on the validation data, which is a significant improvement over the client's current process. The model was able to identify the most important factors that contribute to promotion likelihood, such as employee age, awards won, previous training performance, and years of service etc..
 
 ## Conclusion
 This project demonstrates the effectiveness of machine learning in solving real-world HR challenges such as employee promotion prediction. The model developed can help the client to save time and resources by selecting only the most deserving candidates for training and evaluation, ultimately leading to better employee satisfaction and retention.
