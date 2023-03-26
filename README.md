@@ -40,10 +40,10 @@ Model selection: We experimented with several machine learning models, including
 
 Model training and evaluation: We trained the selected model on the training data and evaluated its performance on the validation data using metrics such as accuracy, precision, recall, and F1 score.
 
-Model deployment: Work in Progress
+Model deployment: https://huggingface.co/spaces/Harsh12/EmployeePromotionPrediction
 
 ## Results
-The final model achieved an accuracy of 95% on the validation data, which is a significant improvement over the client's current process. The model was able to identify the most important factors that contribute to promotion likelihood, such as employee age, awards won, previous training performance, and years of service etc..
+The final model achieved an accuracy of 93% on the validation data (still working on it to improve the accuracy), which is a significant improvement over the client's current process. The model was able to identify the most important factors that contribute to promotion likelihood, such as employee age, awards won, previous training performance, and years of service etc..
 
 ## Conclusion
 This project demonstrates the effectiveness of machine learning in solving real-world HR challenges such as employee promotion prediction. The model developed can help the client to save time and resources by selecting only the most deserving candidates for training and evaluation, ultimately leading to better employee satisfaction and retention.
